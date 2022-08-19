@@ -11,12 +11,12 @@ I like automating things, building pipelines, exploring scalability problems and
 ### My skills include
 
 <p align="center">
-	<img title="AWS" alt="AWS" src="/aws.png" width="60" height="40" />
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />	
+	<img title="AWS" alt="AWS" src="/assets/aws.svg" width="60" height="40" />
+	<img title="Python" alt="Python" src="/assets/python.svg" width="40" height="40" />
+	<img title="MySQL" alt="MySQL" src="/assets/mysql.svg" width="40" height="40" />
+	<img title="Git" alt="Git" src="/assets/git.svg" width="70" height="40" />
+	<img title="jira" alt="linux" src="/assets/jira.svg" width="40" />
+	<img title="linux" alt="linux" src="/assets/linux.svg" width="40" />	
 </p>
 
 
