@@ -3,7 +3,7 @@
 
 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. My interest lies in 📜 open source, :cloud: cloud computing, 🚀 DevOps, :new: and automation :robot:. 
 
-- 🌱 I am a new graduate 2022 with a Bachelor of Science in Information Technology.
+- 🌱 I am a 2022 graduate with a Bachelor of Science in Information Technology.
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially. 
 - 💬 Talk to me about Formula 1 :racing_car:, MotoGP, Anime, Movies 🎥 and League Of Legend 🎮
 
@@ -11,7 +11,7 @@ I like automating things, building pipelines, exploring scalability problems and
 ### My skills include
 
 <p align="center">
-	<img title="AWS" alt="AWS" src="" width="60" height="40" />
+	<img title="AWS" alt="AWS" src="/aws.png" width="60" height="40" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
