@@ -5,7 +5,7 @@ I like automating things, building pipelines, exploring scalability problems and
 
 - 🌱 I am a 2022 graduate with a Bachelor of Science in Information Technology.
 - ⚡ **Fun fact:** I am into Bird Keeping :bird: and love African Grey parrots.
-- :book: I am an avid reader and love reading non fictions, particularly Hitchens :heart:
+- :book: I am an avid reader and love reading non fictions, particularly Christopher Hitchens :heart:
 - 💬 Talk to me about Formula 1 :racing_car:, MotoGP, Anime, Movies 🎥 and League Of Legend 🎮
 
 
@@ -30,7 +30,7 @@ I like automating things, building pipelines, exploring scalability problems and
 
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>If you don’t fear the unknown, the unknown will be kind to you. - Paulo Coelho</i>
    <br>
 <br>
 <a target="_blank" href="https://majwadc.vercel.app"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
