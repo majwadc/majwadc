@@ -4,7 +4,8 @@
 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. My interest lies in 📜 open source, :cloud: cloud computing, 🚀 DevOps, :new: and automation :robot:. 
 
 - 🌱 I am a 2022 graduate with a Bachelor of Science in Information Technology.
-- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially. 
+- ⚡ **Fun fact:** I am into Bird Keeping :bird: and love African Grey parrots.
+- :book: I am an avid reader and love reading non fictions, particularly Hitchens :heart:
 - 💬 Talk to me about Formula 1 :racing_car:, MotoGP, Anime, Movies 🎥 and League Of Legend 🎮
 
 
@@ -16,7 +17,7 @@ I like automating things, building pipelines, exploring scalability problems and
 	<img title="MySQL" alt="MySQL" src="/assets/mysql.svg" width="40" height="40" />
 	<img title="Git" alt="Git" src="/assets/git.svg" width="70" height="40" />
 	<img title="jira" alt="linux" src="/assets/jira.svg" width="40" />
-	<img title="linux" alt="linux" src="/assets/linux.svg" width="40" />	
+	<img title="linux" alt="linux" src="/assets/linux-tux.svg" width="40" />	
 </p>
 
 
